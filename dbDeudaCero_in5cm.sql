@@ -26,8 +26,8 @@ create table deuda (
 create table pago (
 	idPago int auto_increment not null,
     idDeuda int not null,
-    monto decimal(10,2) not null,
-    fecha date not null,
+    montopago decimal(10,2) not null,
+    fechapago date not null,
     primary key PK_idPago (idPago),
     constraint FK_pago_deuda foreign key (idDeuda)
 		references deuda(idDeuda) on delete cascade
