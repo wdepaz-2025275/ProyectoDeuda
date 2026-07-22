@@ -1,0 +1,51 @@
+
+[
+    {
+        "idPago": 1,
+        "idDeuda": 1,
+        "monto": 500.00,
+        "fecha": "2026-06-10"
+    },
+    {
+        "idPago": 2,
+        "idDeuda": 2,
+        "monto": 3000.00,
+        "fecha": "2026-05-18"
+    },
+    {
+        "idPago": 4,
+        "idDeuda": 4,
+        "monto": 2000.00,
+        "fecha": "2026-05-25"
+    },
+    {
+        "idPago": 4,
+        "idDeuda": 4,
+        "monto": 2000.00,
+        "fecha": "2026-06-12"
+    },
+    {
+        "idPago": 5,
+        "idDeuda": 5,
+        "monto": 850.00,
+        "fecha": "2026-04-09"
+    },
+    {
+        "idPago": 7,
+        "idDeuda": 7,
+        "monto": 200.00,
+        "fecha": "2026-06-01"
+    },
+    {
+        "idPago": 8,
+        "idDeuda": 8,
+        "monto": 5000.00,
+        "fecha": "2026-04-30"
+    },
+    {
+        "idPago": 10,
+        "idDeuda": 10,
+        "monto": 1400.00,
+        "fecha": "2026-06-05"
+    }
+]
