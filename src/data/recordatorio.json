@@ -1,0 +1,62 @@
+[
+    {
+        "idRecordatorio": 1,
+        "idDeuda": 1,
+        "fechaEnvio": "2026-06-15",
+        "mensaje": "Estimado cliente, le recordamos su saldo pendiente en el préstamo."
+    },
+    {
+        "idRecordatorio": 3,
+        "idDeuda": 3,
+        "fechaEnvio": "2026-06-10",
+        "mensaje": "Aviso: Su factura por servicios de mantenimiento vence pronto."
+    },
+    {
+        "idRecordatorio": 4,
+        "idDeuda": 4,
+        "fechaEnvio": "2026-06-01",
+        "mensaje": "Recordatorio de cuota mensual para su financiamiento de equipo."
+    },
+    {
+        "idRecordatorio": 6,
+        "idDeuda": 6,
+        "fechaEnvio": "2026-06-16",
+        "mensaje": "Su línea de crédito presenta un saldo pendiente próximo a vencer."
+    },
+    {
+        "idRecordatorio": 7,
+        "idDeuda": 7,
+        "fechaEnvio": "2026-06-20",
+        "mensaje": "Evite la suspensión de su software, recuerde realizar su pago."
+    },
+    {
+        "idRecordatorio": 9,
+        "idDeuda": 9,
+        "fechaEnvio": "2026-06-12",
+        "mensaje": "Primer aviso formal sobre su cargo por mora administrativa."
+    },
+    {
+        "idRecordatorio": 10,
+        "idDeuda": 10,
+        "fechaEnvio": "2026-06-02",
+        "mensaje": "Notificación de emisión de factura para su seguro vehicular."
+    },
+    {
+        "idRecordatorio": 1,
+        "idDeuda": 1,
+        "fechaEnvio": "2026-07-01",
+        "mensaje": "Segundo aviso: Su cuota mensual se encuentra próxima al límite."
+    },
+    {
+        "idRecordatorio": 3,
+        "idDeuda": 3,
+        "fechaEnvio": "2026-06-25",
+        "mensaje": "Último aviso: Su pago de mantenimiento vence en 5 días."
+    },
+    {
+        "idRecordatorio": 6,
+        "idDeuda": 6,
+        "fechaEnvio": "2026-07-01",
+        "mensaje": "Actualización de estado de cuenta para su saldo pendiente."
+    }
+]
