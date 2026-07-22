@@ -1,0 +1,92 @@
+[
+    {
+        "idDeuda": 1,
+        "idCliente": 1,
+        "montoTotal": 1500.00,
+        "montoPagado": 500.00,
+        "descripcion": "Préstamo personal comercial",
+        "fechaVencimiento": "2026-07-15",
+        "estado": "Pendiente"
+    },
+    {
+        "idDeuda": 2,
+        "idCliente": 2,
+        "montoTotal": 3000.00,
+        "montoPagado": 3000.00,
+        "descripcion": "Pago de membresía anual",
+        "fechaVencimiento": "2026-05-20",
+        "estado": "Pagada"
+    },
+    {
+        "idDeuda": 3,
+        "idCliente": 3,
+        "montoTotal": 450.50,
+        "montoPagado": 0.00,
+        "descripcion": "Servicios de mantenimiento",
+        "fechaVencimiento": "2026-06-30",
+        "estado": "Pendiente"
+    },
+    {
+        "idDeuda": 4,
+        "idCliente": 4,
+        "montoTotal": 12000.00,
+        "montoPagado": 4000.00,
+        "descripcion": "Financiamiento de equipo",
+        "fechaVencimiento": "2026-12-01",
+        "estado": "Pendiente"
+    },
+    {
+        "idDeuda": 5,
+        "idCliente": 5,
+        "montoTotal": 850.00,
+        "montoPagado": 850.00,
+        "descripcion": "Compra de suministros",
+        "fechaVencimiento": "2026-04-10",
+        "estado": "Pagada"
+    },
+    {
+        "idDeuda": 6,
+        "idCliente": 6,
+        "montoTotal": 2500.00,
+        "montoPagado": 0.00,
+        "descripcion": "Saldo de línea de crédito",
+        "fechaVencimiento": "2026-08-18",
+        "estado": "Pendiente"
+    },
+    {
+        "idDeuda": 7,
+        "idCliente": 7,
+        "montoTotal": 600.00,
+        "montoPagado": 200.00,
+        "descripcion": "Suscripción de software empresarial",
+        "fechaVencimiento": "2026-07-05",
+        "estado": "Pendiente"
+    },
+    {
+        "idDeuda": 8,
+        "idCliente": 8,
+        "montoTotal": 5000.00,
+        "montoPagado": 5000.00,
+        "descripcion": "Anticipo de contrato de obra",
+        "fechaVencimiento": "2026-05-02",
+        "estado": "Pagada"
+    },
+    {
+        "idDeuda": 9,
+        "idCliente": 9,
+        "montoTotal": 175.00,
+        "montoPagado": 0.00,
+        "descripcion": "Cargo por mora administrativa",
+        "fechaVencimiento": "2026-06-25",
+        "estado": "Pendiente"
+    },
+    {
+        "idDeuda": 10,
+        "idCliente": 10,
+        "montoTotal": 3400.00,
+        "montoPagado": 1400.00,
+        "descripcion": "Seguro vehicular trimestral",
+        "fechaVencimiento": "2026-09-10",
+        "estado": "Pendiente"
+    }
+]
