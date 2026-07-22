@@ -208,16 +208,16 @@ delimiter $$
     end $$
 delimiter ;
 
-CALL sp_cliente_create('Ana López', 'ana.lopez@email.com', '5555-1234');
-CALL sp_cliente_create('Carlos Méndez', 'carlos.mendez@email.com', '4444-5678');
-CALL sp_cliente_create('María Pérez', 'maria.perez@email.com', '3333-9012');
-CALL sp_cliente_create('Luis García', 'luis.garcia@email.com', '2222-3456');
-CALL sp_cliente_create('Sofía Ramírez', 'sofia.ramirez@email.com', '6666-7890');
-CALL sp_cliente_create('Jorge Castillo', 'jorge.castillo@email.com', '7777-2345');
-CALL sp_cliente_create('Paola Díaz', 'paola.diaz@email.com', '8888-6789');
-CALL sp_cliente_create('Miguel Hernández', 'miguel.hernandez@email.com', '9999-0123');
-CALL sp_cliente_create('Elena Morales', 'elena.morales@email.com', '4444-4567');
-CALL sp_cliente_create('Ricardo Flores', 'ricardo.flores@email.com', '5555-8901');
+CALL sp_cliente_create('Ana López', 'analopez@email.com', '5555-1234');
+CALL sp_cliente_create('Carlos Méndez', 'carlosmendez@email.com', '4444-5678');
+CALL sp_cliente_create('María Pérez', 'mariaperez@email.com', '3333-9012');
+CALL sp_cliente_create('Luis García', 'luisgarcia@email.com', '2222-3456');
+CALL sp_cliente_create('Sofía Ramírez', 'sofiaramirez@email.com', '6666-7890');
+CALL sp_cliente_create('Jorge Castillo', 'jorgecastillo@email.com', '7777-2345');
+CALL sp_cliente_create('Paola Díaz', 'paoladiaz@email.com', '8888-6789');
+CALL sp_cliente_create('Miguel Hernández', 'miguelhernandez@email.com', '9999-0123');
+CALL sp_cliente_create('Elena Morales', 'elenamorales@email.com', '4444-4567');
+CALL sp_cliente_create('Ricardo Flores', 'ricardoflores@email.com', '5555-8901');
 
 CALL sp_cliente_read_all();
 
