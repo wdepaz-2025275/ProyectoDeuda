@@ -1,0 +1,62 @@
+[
+    {
+        "idUsuario": 1,
+        "nombreUsuario": "Kevin López",
+        "correoUsuario": "kevinlopez@email.com",
+        "passwordUsuario": "12345"
+    },
+    {
+        "idUsuario": 2,
+        "nombreUsuario": "María González",
+        "correoUsuario": "mariagonzalez@email.com",
+        "passwordUsuario": "12345"
+    },
+    {
+        "idUsuario": 3,
+        "nombreUsuario": "Carlos Méndez",
+        "correoUsuario": "carlosmendez@email.com",
+        "passwordUsuario": "12345"
+    },
+    {
+        "idUsuario": 4,
+        "nombreUsuario": "Ana Ramírez",
+        "correoUsuario": "anaramirez@email.com",
+        "passwordUsuario": "12345"
+    },
+    {
+        "idUsuario": 5,
+        "nombreUsuario": "Luis Hernández",
+        "correoUsuario": "luishernandez@email.com",
+        "passwordUsuario": "12345"
+    },
+    {
+        "idUsuario": 6,
+        "nombreUsuario": "Sofía Castillo",
+        "correoUsuario": "sofiacastillo@email.com",
+        "passwordUsuario": "12345"
+    },
+    {
+        "idUsuario": 7,
+        "nombreUsuario": "Jorge Morales",
+        "correoUsuario": "jorgemorales@email.com",
+        "passwordUsuario": "12345"
+    },
+    {
+        "idUsuario": 8,
+        "nombreUsuario": "Paola Díaz",
+        "correoUsuario": "paoladiaz@email.com",
+        "passwordUsuario": "12345"
+    },
+    {
+        "idUsuario": 9,
+        "nombreUsuario": "Miguel Pérez",
+        "correoUsuario": "miguelperez@email.com",
+        "passwordUsuario": "12345"
+    },
+    {
+        "idUsuario": 10,
+        "nombreUsuario": "Valeria Flores",
+        "correoUsuario": "valeriaflores@email.com",
+        "passwordUsuario": "12345"
+    }
+]
