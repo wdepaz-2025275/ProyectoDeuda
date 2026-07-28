@@ -1,51 +1,74 @@
-
 [
     {
         "idPago": 1,
-        "idDeuda": 1,
-        "monto": 500.00,
-        "fecha": "2026-06-10"
+        "montoPago": 500,
+        "fechaPago": "2026-07-18",
+        "metodoPago": "Transferencia",
+        "observacionPago": "Abono parcial",
+        "idDeuda": 1
     },
     {
         "idPago": 2,
-        "idDeuda": 2,
-        "monto": 3000.00,
-        "fecha": "2026-05-18"
+        "montoPago": 850,
+        "fechaPago": "2026-07-20",
+        "metodoPago": "Efectivo",
+        "observacionPago": "Pago completo",
+        "idDeuda": 2
+    },
+    {
+        "idPago": 3,
+        "montoPago": 100,
+        "fechaPago": "2026-07-21",
+        "metodoPago": "Tarjeta",
+        "observacionPago": "Primer pago",
+        "idDeuda": 3
     },
     {
         "idPago": 4,
-        "idDeuda": 4,
-        "monto": 2000.00,
-        "fecha": "2026-05-25"
-    },
-    {
-        "idPago": 4,
-        "idDeuda": 4,
-        "monto": 2000.00,
-        "fecha": "2026-06-12"
+        "montoPago": 600,
+        "fechaPago": "2026-07-22",
+        "metodoPago": "Transferencia",
+        "observacionPago": "Abono",
+        "idDeuda": 4
     },
     {
         "idPago": 5,
-        "idDeuda": 5,
-        "monto": 850.00,
-        "fecha": "2026-04-09"
+        "montoPago": 450,
+        "fechaPago": "2026-07-23",
+        "metodoPago": "Efectivo",
+        "observacionPago": "Pago total",
+        "idDeuda": 5
+    },
+    {
+        "idPago": 6,
+        "montoPago": 500,
+        "fechaPago": "2026-07-24",
+        "metodoPago": "Tarjeta",
+        "observacionPago": "Abono parcial",
+        "idDeuda": 6
     },
     {
         "idPago": 7,
-        "idDeuda": 7,
-        "monto": 200.00,
-        "fecha": "2026-06-01"
+        "montoPago": 300,
+        "fechaPago": "2026-07-25",
+        "metodoPago": "Efectivo",
+        "observacionPago": "Primer abono",
+        "idDeuda": 7
     },
     {
         "idPago": 8,
-        "idDeuda": 8,
-        "monto": 5000.00,
-        "fecha": "2026-04-30"
+        "montoPago": 780,
+        "fechaPago": "2026-07-26",
+        "metodoPago": "Transferencia",
+        "observacionPago": "Pago completo",
+        "idDeuda": 8
     },
     {
-        "idPago": 10,
-        "idDeuda": 10,
-        "monto": 1400.00,
-        "fecha": "2026-06-05"
+        "idPago": 9,
+        "montoPago": 800,
+        "fechaPago": "2026-07-27",
+        "metodoPago": "Efectivo",
+        "observacionPago": "Abono inicial",
+        "idDeuda": 9
     }
 ]
