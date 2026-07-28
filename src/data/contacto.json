@@ -1,0 +1,74 @@
+[
+    {
+        "idUsuario": 1,
+        "nombreContacto": "Juan Pérez",
+        "correoContacto": "juanperez@email.com",
+        "telefonoContacto": "55559876",
+        "direccionContacto": "zona 13",
+        "idContacto": 1
+    },
+    {
+        "idContacto": 2,
+        "nombreContacto": "Carlos Méndez",
+        "correoContacto": "carlosmendez@email.com",
+        "telefonoContacto": "4444-5678",
+        "direccionContacto": "Zona 2",
+        "idUsuario": 2
+    },
+    {
+        "idContacto": 3,
+        "nombreContacto": "María Pérez",
+        "correoContacto": "mariaperez@email.com",
+        "telefonoContacto": "3333-9012",
+        "direccionContacto": "Zona 3",
+        "idUsuario": 3
+    },
+    {
+        "idContacto": 4,
+        "nombreContacto": "Luis García",
+        "correoContacto": "luisgarcia@email.com",
+        "telefonoContacto": "2222-3456",
+        "direccionContacto": "Zona 4",
+        "idUsuario": 4
+    },
+    {
+        "idContacto": 5,
+        "nombreContacto": "Sofía Ramírez",
+        "correoContacto": "sofiaramirez@email.com",
+        "telefonoContacto": "6666-7890",
+        "direccionContacto": "Zona 5",
+        "idUsuario": 5
+    },
+    {
+        "idContacto": 6,
+        "nombreContacto": "Jorge Castillo",
+        "correoContacto": "jorgecastillo@email.com",
+        "telefonoContacto": "7777-2345",
+        "direccionContacto": "Zona 6",
+        "idUsuario": 6
+    },
+    {
+        "idContacto": 7,
+        "nombreContacto": "Paola Díaz",
+        "correoContacto": "paoladiaz@email.com",
+        "telefonoContacto": "8888-6789",
+        "direccionContacto": "Zona 7",
+        "idUsuario": 7
+    },
+    {
+        "idContacto": 8,
+        "nombreContacto": "Miguel Hernández",
+        "correoContacto": "miguelhernandez@email.com",
+        "telefonoContacto": "9999-0123",
+        "direccionContacto": "Zona 8",
+        "idUsuario": 8
+    },
+    {
+        "idContacto": 9,
+        "nombreContacto": "Elena Morales",
+        "correoContacto": "elenamorales@email.com",
+        "telefonoContacto": "4444-4567",
+        "direccionContacto": "Zona 9",
+        "idUsuario": 9
+    }
+]
