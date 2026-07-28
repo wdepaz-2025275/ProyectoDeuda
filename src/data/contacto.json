@@ -1,13 +1,5 @@
 [
     {
-        "idUsuario": 1,
-        "nombreContacto": "Juan Pérez",
-        "correoContacto": "juanperez@email.com",
-        "telefonoContacto": "55559876",
-        "direccionContacto": "zona 13",
-        "idContacto": 1
-    },
-    {
         "idContacto": 2,
         "nombreContacto": "Carlos Méndez",
         "correoContacto": "carlosmendez@email.com",
