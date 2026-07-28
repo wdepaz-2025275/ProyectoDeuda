@@ -1,6 +1,9 @@
 export interface Pago {
-    idPago: number;
-    idDeuda: number;
-    montopago: number;
-    fechaPago: Date;
+    
+  idPago: number;
+  montoPago: number;
+  fechaPago: string;
+  metodoPago: string;
+  observacionPago: string;
+  idDeuda: number;
 }
