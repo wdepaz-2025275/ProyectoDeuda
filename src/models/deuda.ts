@@ -1,11 +1,11 @@
-import { Estado } from './estado';
-
 export interface Deuda {
-    idDeuda: number;
-    idCliente: number;
-    montoTotal: number;
-    montoPagado: number;
-    descripcion: string;
-    fechaVencimiento: Date;
-    estado: Estado;
+    
+  idDeuda: number;
+  montoTotal: number;
+  saldoPendiente: number;
+  descripcion: string;
+  fechaCreacion: string;
+  fechaVencimiento: string;
+  estado: string;
+  idPersona: number;
 }
