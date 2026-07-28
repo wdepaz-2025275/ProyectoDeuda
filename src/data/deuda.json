@@ -1,92 +1,102 @@
 [
     {
         "idDeuda": 1,
-        "idCliente": 1,
-        "montoTotal": 1500.00,
-        "montoPagado": 500.00,
-        "descripcion": "Préstamo personal comercial",
-        "fechaVencimiento": "2026-07-15",
-        "estado": "Pendiente"
+        "montoTotal": 500,
+        "saldoPendiente": 500,
+        "descripcion": "Compra de productos",
+        "fechaCreacion": "2026-07-01",
+        "fechaVencimiento": "2026-08-01",
+        "estado": "Pendiente",
+        "idContacto": 1
     },
     {
         "idDeuda": 2,
-        "idCliente": 2,
-        "montoTotal": 3000.00,
-        "montoPagado": 3000.00,
-        "descripcion": "Pago de membresía anual",
-        "fechaVencimiento": "2026-05-20",
-        "estado": "Pagada"
+        "montoTotal": 1200,
+        "saldoPendiente": 700,
+        "descripcion": "Préstamo personal",
+        "fechaCreacion": "2026-07-02",
+        "fechaVencimiento": "2026-08-02",
+        "estado": "Pendiente",
+        "idContacto": 2
     },
     {
         "idDeuda": 3,
-        "idCliente": 3,
-        "montoTotal": 450.50,
-        "montoPagado": 0.00,
-        "descripcion": "Servicios de mantenimiento",
-        "fechaVencimiento": "2026-06-30",
-        "estado": "Pendiente"
+        "montoTotal": 850,
+        "saldoPendiente": 0,
+        "descripcion": "Compra de materiales",
+        "fechaCreacion": "2026-07-03",
+        "fechaVencimiento": "2026-08-03",
+        "estado": "Pagada",
+        "idContacto": 3
     },
     {
         "idDeuda": 4,
-        "idCliente": 4,
-        "montoTotal": 12000.00,
-        "montoPagado": 4000.00,
-        "descripcion": "Financiamiento de equipo",
-        "fechaVencimiento": "2026-12-01",
-        "estado": "Pendiente"
+        "montoTotal": 300,
+        "saldoPendiente": 300,
+        "descripcion": "Venta al crédito",
+        "fechaCreacion": "2026-07-04",
+        "fechaVencimiento": "2026-08-04",
+        "estado": "Pendiente",
+        "idContacto": 4
     },
     {
         "idDeuda": 5,
-        "idCliente": 5,
-        "montoTotal": 850.00,
-        "montoPagado": 850.00,
-        "descripcion": "Compra de suministros",
-        "fechaVencimiento": "2026-04-10",
-        "estado": "Pagada"
+        "montoTotal": 1500,
+        "saldoPendiente": 900,
+        "descripcion": "Préstamo para negocio",
+        "fechaCreacion": "2026-07-05",
+        "fechaVencimiento": "2026-08-05",
+        "estado": "Pendiente",
+        "idContacto": 5
     },
     {
         "idDeuda": 6,
-        "idCliente": 6,
-        "montoTotal": 2500.00,
-        "montoPagado": 0.00,
-        "descripcion": "Saldo de línea de crédito",
-        "fechaVencimiento": "2026-08-18",
-        "estado": "Pendiente"
+        "montoTotal": 450,
+        "saldoPendiente": 0,
+        "descripcion": "Compra de accesorios",
+        "fechaCreacion": "2026-07-06",
+        "fechaVencimiento": "2026-08-06",
+        "estado": "Pagada",
+        "idContacto": 6
     },
     {
         "idDeuda": 7,
-        "idCliente": 7,
-        "montoTotal": 600.00,
-        "montoPagado": 200.00,
-        "descripcion": "Suscripción de software empresarial",
-        "fechaVencimiento": "2026-07-05",
-        "estado": "Pendiente"
+        "montoTotal": 950,
+        "saldoPendiente": 450,
+        "descripcion": "Compra de herramientas",
+        "fechaCreacion": "2026-07-07",
+        "fechaVencimiento": "2026-08-07",
+        "estado": "Pendiente",
+        "idContacto": 7
     },
     {
         "idDeuda": 8,
-        "idCliente": 8,
-        "montoTotal": 5000.00,
-        "montoPagado": 5000.00,
-        "descripcion": "Anticipo de contrato de obra",
-        "fechaVencimiento": "2026-05-02",
-        "estado": "Pagada"
+        "montoTotal": 600,
+        "saldoPendiente": 600,
+        "descripcion": "Préstamo familiar",
+        "fechaCreacion": "2026-07-08",
+        "fechaVencimiento": "2026-08-08",
+        "estado": "Pendiente",
+        "idContacto": 8
     },
     {
         "idDeuda": 9,
-        "idCliente": 9,
-        "montoTotal": 175.00,
-        "montoPagado": 0.00,
-        "descripcion": "Cargo por mora administrativa",
-        "fechaVencimiento": "2026-06-25",
-        "estado": "Pendiente"
+        "montoTotal": 780,
+        "saldoPendiente": 0,
+        "descripcion": "Compra de electrodomésticos",
+        "fechaCreacion": "2026-07-09",
+        "fechaVencimiento": "2026-08-09",
+        "estado": "Pagada",
+        "idContacto": 9
     },
     {
         "idDeuda": 10,
-        "idCliente": 10,
-        "montoTotal": 3400.00,
-        "montoPagado": 1400.00,
-        "descripcion": "Seguro vehicular trimestral",
-        "fechaVencimiento": "2026-09-10",
-        "estado": "Pendiente"
+        "montoTotal": 2000,
+        "saldoPendiente": 1200,
+        "descripcion": "Financiamiento de equipo",
+        "fechaCreacion": "2026-07-10",
+        "fechaVencimiento": "2026-08-10",
+        "estado": "Pendiente",
+        "idContacto": 10
     }
 ]
